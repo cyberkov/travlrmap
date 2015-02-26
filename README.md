@@ -1,12 +1,8 @@
 What?
 =====
-
-Sample site to show off https://github.com/ripienaar/travlrmap, you can see this
-running on heroku: http://travlrmap-demo.devco.net/
-
-For further information see https://ripienaar.github.io/travlrmap/
+This is a map based on travlrmap to list all my travels
 
 Contact?
 --------
 
-R.I.Pienaar / rip@devco.net / @ripienaar / http://devco.net/
+Hannes Schaller / admin@cyberkov.at / @cyberkov / http://cyberkov.at/
