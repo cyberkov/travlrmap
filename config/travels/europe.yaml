@@ -46,10 +46,12 @@
   :lat: 52.52000659999999
   :type: :visit
 - :title: Leipzig
+  :comment: Games Convention 2006
   :country: Deutschland
   :lon: 12.373074699999961
   :lat: 51.3396955
-  :type: :visit
+  :type: :gallery
+  :gallery: flickr,user=cyberkov,set=72157594269149430
 - :title: Paris
   :country: Frankreich
   :lon: 2.3522219000000177

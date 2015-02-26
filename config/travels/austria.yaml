@@ -11,10 +11,12 @@
   :lat: 48.20353
   :type: :visit
 - :title: Linz
+  :comment: Ars Electronica 2006
   :country: "Österreich"
   :lon: 14.285830000000033
   :lat: 48.30694
-  :type: :visit
+  :type: :gallery
+  :gallery: flickr,user=cyberkov,set=72157600014697963
 - :title: Salzburg
   :country: "Österreich"
   :lon: 13.055010000000038
