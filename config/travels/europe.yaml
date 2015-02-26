@@ -7,6 +7,7 @@
   :type: :visit
 - :title: London
   :country: Großbritannien und Nordirland
+  :date: '2011-11-06'
   :lon: -0.12775829999998223
   :lat: 51.5073509
   :type: :visit
@@ -15,8 +16,10 @@
   :lon: 0.12181699999996454
   :lat: 52.205337
   :type: :visit
+  :date: '2011-03-18'
 - :title: Oxford
   :country: Großbritannien und Nordirland
+  :date: '2010-10-23'
   :lon: -1.2577263000000585
   :lat: 51.7520209
   :type: :visit
@@ -30,6 +33,22 @@
   :lon: -2.094278000000031
   :lat: 57.149717
   :type: :visit
+- :title: Brighton
+  :country: Großbritannien und Nordirland
+  :date: '2012-12-11'
+  :lon: -0.13716299999998682
+  :lat: 50.82253000000001
+  :type: :visit
+- :title: Dundee
+  :country: Großbritannien und Nordirland
+  :lon: -2.970721000000026
+  :lat: 56.462018
+  :type: :visit
+- :title: Glasgow
+  :country: Großbritannien und Nordirland
+  :lon: -4.251805999999988
+  :lat: 55.864237
+  :type: :visit
 - :title: Dublin
   :country: Irland
   :lon: -6.260309699999993
@@ -37,6 +56,7 @@
   :type: :visit
 - :title: Chania
   :country: Griechenland
+  :date: '2009-06-24'
   :lon: 24.01803670000004
   :lat: 35.5138298
   :type: :visit
@@ -54,6 +74,7 @@
   :gallery: flickr,user=cyberkov,set=72157594269149430
 - :title: Paris
   :country: Frankreich
+  :date: '2011-04-13'
   :lon: 2.3522219000000177
   :lat: 48.856614
   :type: :visit
@@ -64,6 +85,7 @@
   :type: :visit
 - :title: Madeira
   :country: Portugal
+  :date: '2011-08-03'
   :lon: -16.959472300000016
   :lat: 32.76070740000001
   :type: :visit
@@ -71,6 +93,16 @@
   :country: Portugal
   :lon: -9.139336599999979
   :lat: 38.7222524
+  :type: :visit
+- :title: Porto
+  :country: Portugal
+  :lon: -8.629105299999992
+  :lat: 41.1579438
+  :type: :visit
+- :title: Cabo da Roca
+  :country: Portugal
+  :lon: -9.498888899999997
+  :lat: 38.7802778
   :type: :visit
 - :title: Santorini
   :country: Griechenland
@@ -97,23 +129,9 @@
   :lon: 23.729359899999963
   :lat: 37.983917
   :type: :visit
-- :title: "Zürich"
-  :country: Schweiz
-  :lon: 8.539182500000038
-  :lat: 47.3686498
-  :type: :transit
-- :title: Flughafen Amsterdam Schiphol
-  :country: Niederlande
-  :lon: 4.767424099999971
-  :lat: 52.3076865
-  :type: :transit
-- :title: "München"
-  :country: Deutschland
-  :lon: 11.581980599999952
-  :lat: 48.1351253
-  :type: :transit
-- :title: Dresden
-  :country: Deutschland
-  :lon: 13.737262099999953
-  :lat: 51.0504088
-  :type: :transit
+- :title: Bratislava
+  :country: Slowakei
+  :date: '2012-11-14'
+  :lon: 17.107137299999977
+  :lat: 48.1458923
+  :type: :visit
