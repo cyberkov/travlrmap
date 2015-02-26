@@ -45,7 +45,7 @@
     :icon: /mapicons/friends-family/home-2.png
     :description: Lived
   :wishlist:
-    :icon: /mapicons/tourism/notvisited.png
+    :icon: /mapicons/tourism/star-3.png
     :description: Wishlist
   :gallery:
     :icon: /mapicons/stores/photography.png

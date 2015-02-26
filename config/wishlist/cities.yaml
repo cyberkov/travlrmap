@@ -1,0 +1,31 @@
+:points:
+- :title: Tokio
+  :country: Japan
+  :lon: 139.69170639999993
+  :lat: 35.6894875
+  :type: :wishlist
+- :title: Reykjavík
+  :country: Island
+  :lon: -21.933332999999948
+  :lat: 64.133333
+  :type: :wishlist
+- :title: Bali
+  :country: Indonesien
+  :lon: 115.18891600000006
+  :lat: -8.4095178
+  :type: :wishlist
+- :title: Istanbul
+  :country: Türkei
+  :lon: 28.976959999999963
+  :lat: 41.00527
+  :type: :wishlist
+- :title: San Francisco
+  :country: USA
+  :lon: -122.41941550000001
+  :lat: 37.7749295
+  :type: :wishlist
+- :title: New York
+  :country: USA
+  :lon: -74.00594130000002
+  :lat: 40.7127837
+  :type: :wishlist
