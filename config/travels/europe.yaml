@@ -1,37 +1,117 @@
 ---
 :points:
-- :title: Holiday February 2015
-  :comment: Gallery of photos taken on holiday early 2015
-  :country: Spain
-  :linktext: East Coast Road Trip
-  :linkimg: https://farm8.staticflickr.com/7387/16331224608_f36063b0cd_m_d.jpg
-  :lon: -4
-  :lat: 39
-  :type: :gallery
-  :gallery: flickr,user=ripienaar,set=72157648567428473
-- :type: :visit
-  :lon: 4.42028
-  :title: Antwerp
-  :lat: 51.216024
-  :country: Belgium
-  :comment: Sample Data
-- :type: :visit
-  :lon: 3.227577
-  :title: Brugge
-  :lat: 51.213658
-  :country: Belgium
-  :comment: Sample Data
-- :type: :visit
-  :lon: 4.358311
-  :title: Brussels
-  :lat: 50.857923
-  :country: Belgium
-  :comment: Sample Data
-- :type: :visit
-  :lon: 3.744965
-  :title: Ghent
-  :lat: 51.043768
-  :country: Belgium
-  :comment: Sample Data
-  :href: http://en.wikipedia.org/wiki/Ghent
-  :linkimg: https://polar-harbor-2295.herokuapp.com/images/15238985954_bc58e1bd85_q.jpg
+- :title: Birmingham
+  :country: Großbritannien und Nordirland
+  :lon: -1.8904009999999971
+  :lat: 52.48624299999999
+  :type: :visit
+- :title: London
+  :country: Großbritannien und Nordirland
+  :lon: -0.12775829999998223
+  :lat: 51.5073509
+  :type: :visit
+- :title: Cambridge
+  :country: Großbritannien und Nordirland
+  :lon: 0.12181699999996454
+  :lat: 52.205337
+  :type: :visit
+- :title: Oxford
+  :country: Großbritannien und Nordirland
+  :lon: -1.2577263000000585
+  :lat: 51.7520209
+  :type: :visit
+- :title: Edinburgh
+  :country: Großbritannien und Nordirland
+  :lon: -3.188266999999996
+  :lat: 55.953252
+  :type: :visit
+- :title: Aberdeen
+  :country: Großbritannien und Nordirland
+  :lon: -2.094278000000031
+  :lat: 57.149717
+  :type: :visit
+- :title: Dublin
+  :country: Irland
+  :lon: -6.260309699999993
+  :lat: 53.3498053
+  :type: :visit
+- :title: Chania
+  :country: Griechenland
+  :lon: 24.01803670000004
+  :lat: 35.5138298
+  :type: :visit
+- :title: Berlin
+  :country: Deutschland
+  :lon: 13.404953999999975
+  :lat: 52.52000659999999
+  :type: :visit
+- :title: Leipzig
+  :country: Deutschland
+  :lon: 12.373074699999961
+  :lat: 51.3396955
+  :type: :visit
+- :title: Paris
+  :country: Frankreich
+  :lon: 2.3522219000000177
+  :lat: 48.856614
+  :type: :visit
+- :title: Venedig
+  :country: Italien
+  :lon: 12.31551509999997
+  :lat: 45.4408474
+  :type: :visit
+- :title: Madeira
+  :country: Portugal
+  :lon: -16.959472300000016
+  :lat: 32.76070740000001
+  :type: :visit
+- :title: Lissabon
+  :country: Portugal
+  :lon: -9.139336599999979
+  :lat: 38.7222524
+  :type: :visit
+- :title: Santorini
+  :country: Griechenland
+  :lon: 25.461509200000023
+  :lat: 36.3931562
+  :type: :visit
+- :title: Nikosia
+  :country: Cyprus
+  :lon: 33.36666700000001
+  :lat: 35.166667
+  :type: :visit
+- :title: Ljubljana
+  :country: Slowenien
+  :lon: 14.505751499999974
+  :lat: 46.0569465
+  :type: :visit
+- :title: "Straßburg"
+  :country: Frankreich
+  :lon: 7.752111300000024
+  :lat: 48.5734053
+  :type: :visit
+- :title: Athen
+  :country: Griechenland
+  :lon: 23.729359899999963
+  :lat: 37.983917
+  :type: :visit
+- :title: "Zürich"
+  :country: Schweiz
+  :lon: 8.539182500000038
+  :lat: 47.3686498
+  :type: :transit
+- :title: Flughafen Amsterdam Schiphol
+  :country: Niederlande
+  :lon: 4.767424099999971
+  :lat: 52.3076865
+  :type: :transit
+- :title: "München"
+  :country: Deutschland
+  :lon: 11.581980599999952
+  :lat: 48.1351253
+  :type: :transit
+- :title: Dresden
+  :country: Deutschland
+  :lon: 13.737262099999953
+  :lat: 51.0504088
+  :type: :transit

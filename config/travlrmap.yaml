@@ -14,7 +14,12 @@
   :cluster_zoom_on_click: false
   :show_geocode_link: true
   :map_types: [hybrid, roadmap, satellite, terrain, osm, watercolor, toner, darkmatter, positron, mapquest]
-  :default_map_type: roadmap
+  :default_map_type: positron
+  :authenticate: true
+  :admin_user: cyberkov
+  :admin_salt: c628592ffc829eb7d9eb4c6e2502da9ec0002edbb82fd053e71a43b2d030b493
+  :admin_hash: 35524684d4ce766432a01af295914baf
+
 
 
 :views:

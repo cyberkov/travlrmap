@@ -1,0 +1,47 @@
+---
+:points:
+- :title: Wien
+  :country: "Österreich"
+  :lon: 16.37381890000006
+  :lat: 48.2081743
+  :type: :lived
+- :title: Sankt Pölten
+  :country: "Österreich"
+  :lon: 15.638169999999946
+  :lat: 48.20353
+  :type: :visit
+- :title: Linz
+  :country: "Österreich"
+  :lon: 14.285830000000033
+  :lat: 48.30694
+  :type: :visit
+- :title: Salzburg
+  :country: "Österreich"
+  :lon: 13.055010000000038
+  :lat: 47.80949
+  :type: :visit
+- :title: Ried im Innkreis
+  :country: "Österreich"
+  :lon: 13.492719999999963
+  :lat: 48.21272
+  :type: :visit
+- :title: Innsbruck
+  :country: "Österreich"
+  :lon: 11.404102400000056
+  :lat: 47.2692124
+  :type: :visit
+- :title: Bregenz
+  :country: "Österreich"
+  :lon: 9.742309999999975
+  :lat: 47.50075
+  :type: :visit
+- :title: Graz
+  :country: "Österreich"
+  :lon: 15.439503999999943
+  :lat: 47.070714
+  :type: :visit
+- :title: Klagenfurt
+  :country: "Österreich"
+  :lon: 14.312224600000036
+  :lat: 46.6364598
+  :type: :visit
