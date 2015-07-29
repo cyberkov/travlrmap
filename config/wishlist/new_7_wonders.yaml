@@ -29,6 +29,13 @@
   :title: Giza Necropolis
   :country: Egypt
   :lat: 29.9772962
+- :title: Pomnik komunizmu
+  :comment: Buzludzha
+  :country: Bulgarien
+  :href: http://en.wikipedia.org/wiki/Buzludzha
+  :lon: 25.393888999999945
+  :lat: 42.7359257
+  :type: :wishlist
 #- :type: :wishlist
 #  :href: http://en.wikipedia.org/wiki/Petra
 #  :lon: 35.4425807

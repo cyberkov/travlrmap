@@ -135,3 +135,31 @@
   :lon: 17.107137299999977
   :lat: 48.1458923
   :type: :visit
+- :title: Orléans
+  :comment: '1990'
+  :country: Frankreich
+  :date: '1990-06-03'
+  :lon: 1.9092510000000402
+  :lat: 47.902964
+  :type: :visit
+- :title: Blois
+  :comment: '1990'
+  :country: Frankreich
+  :date: '1990-06-03'
+  :lon: 1.3359474999999748
+  :lat: 47.58609209999999
+  :type: :visit
+- :title: Amboise
+  :comment: '1990'
+  :country: Frankreich
+  :date: '1990-06-03'
+  :lon: 0.9844070000000329
+  :lat: 47.413326
+  :type: :visit
+- :title: Tours
+  :comment: '1990'
+  :country: Frankreich
+  :date: '1990-06-03'
+  :lon: 0.6848400000000083
+  :lat: 47.394144
+  :type: :visit
